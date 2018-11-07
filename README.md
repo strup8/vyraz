@@ -1,2 +1,0 @@
-# vyraz
-Created with CodeSandbox
